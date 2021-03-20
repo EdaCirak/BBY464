@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ressources>
+<resources>
 <book>
 	<title>Information Management and Market Engineering</title>
 	<author>Thomas Krämer Dreier </author>
@@ -160,4 +160,4 @@
 	<ISBN>9781119165354</ISBN>
 </book>
 
-</ressources>
+</resources>
